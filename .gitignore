@@ -3,6 +3,9 @@ pycache/
 .py[cod]
 py.class
 
+# Data files
+data/
+
 # Scratchbooks
 *.scratch.*
 
